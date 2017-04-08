@@ -5,7 +5,6 @@ ip,category
 2001:600::/30,unallocated
 2001:67c:11e8::/48,unallocated
 2001:df0:2b7::/48,unallocated
-2001:df0:c100::/48,unallocated
 2001:13c7:6020::/48,unallocated
 2001:13c7:6021::/48,unallocated
 2001:13c7:6022::/48,unallocated
@@ -15,6 +14,7 @@ ip,category
 2001:4879:a281:5::/64,unallocated
 2001:4879:a28c:400::/64,unallocated
 2026:10c:6003::/48,unallocated
+2400:1780::/32,unallocated
 2400:4f80::/32,unallocated
 2400:e800:1000::/36,unallocated
 2402:7380::/48,unallocated
@@ -25,6 +25,7 @@ ip,category
 2600:f000::/32,unallocated
 2602:12e:2000::/44,unallocated
 2602:12e:2002::/48,unallocated
+2602:ff03::/36,unallocated
 2602:ff6a::/36,unallocated
 2602:ffa1::/36,unallocated
 2602:ffa1:500::/40,unallocated
