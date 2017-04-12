@@ -200,10 +200,6 @@ ip,category
 103.49.236.0/24,unallocated
 103.49.237.0/24,unallocated
 103.49.239.0/24,unallocated
-103.51.104.0/24,unallocated
-103.51.105.0/24,unallocated
-103.51.106.0/24,unallocated
-103.51.107.0/24,unallocated
 103.203.90.0/24,unallocated
 103.205.36.0/23,unallocated
 103.206.29.0/24,unallocated
@@ -386,6 +382,7 @@ ip,category
 193.202.8.0/21,unallocated
 194.55.1.0/24,unallocated
 194.126.233.0/24,unallocated
+195.14.18.0/24,unallocated
 195.230.97.0/24,unallocated
 196.44.48.0/21,unallocated
 197.159.224.0/19,unallocated
