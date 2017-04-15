@@ -2,7 +2,6 @@ ip,category
 2001:4:112::/48,unallocated
 2001:5c0:1000::/39,unallocated
 2001:5c0:1400::/39,unallocated
-2001:600::/30,unallocated
 2001:67c:11e8::/48,unallocated
 2001:df0:2b7::/48,unallocated
 2001:13c7:6020::/48,unallocated
@@ -48,10 +47,10 @@ ip,category
 2620:16a0:1::/48,unallocated
 2650:5380::/32,unallocated
 2800:5b00::/32,unallocated
-2804::/22,unallocated
 2a00:a040::/26,unallocated
 2a02:fa::/48,unallocated
 2a02:4700:1000::/48,unallocated
+2a02:62e0::/32,unallocated
 2a02:c060::/32,unallocated
 3ffe:80a::/64,6bone
 a600:8808:664::/47,invalid
