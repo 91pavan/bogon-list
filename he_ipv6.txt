@@ -15,15 +15,11 @@ ip,category
 2400:1780::/32,unallocated
 2400:4f80::/32,unallocated
 2400:e800:1000::/36,unallocated
-2402:7380::/48,unallocated
-2402:7380:800::/48,unallocated
 2404:9500::/32,unallocated
 2404:e601::/48,unallocated
 2405:1900::/32,unallocated
-2600:f000::/32,unallocated
-2602:12e:2000::/44,unallocated
 2602:12e:2002::/48,unallocated
-2602:ff03::/36,unallocated
+2602:12e:2003::/48,unallocated
 2602:ff6a::/36,unallocated
 2602:ffa1::/36,unallocated
 2602:ffa1:500::/40,unallocated
@@ -47,10 +43,8 @@ ip,category
 2620:16a0:1::/48,unallocated
 2650:5380::/32,unallocated
 2800:5b00::/32,unallocated
-2a00:a040::/26,unallocated
 2a02:fa::/48,unallocated
 2a02:4700:1000::/48,unallocated
 2a02:62e0::/32,unallocated
 2a02:c060::/32,unallocated
 3ffe:80a::/64,6bone
-a600:8808:664::/47,invalid

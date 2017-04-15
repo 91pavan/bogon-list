@@ -4,14 +4,11 @@ ip,category
 10.0.0.0/8,RFC1918
 10.1.29.0/24,RFC1918
 10.1.31.0/24,RFC1918
-10.10.14.0/24,RFC1918
 10.10.116.0/24,RFC1918
 10.11.0.0/16,RFC1918
 10.12.1.0/24,RFC1918
 10.22.0.0/16,RFC1918
 10.27.0.0/16,RFC1918
-10.30.1.0/24,RFC1918
-10.30.2.0/24,RFC1918
 10.33.9.0/24,RFC1918
 10.47.0.0/24,RFC1918
 10.75.0.0/16,RFC1918
@@ -239,6 +236,7 @@ ip,category
 103.49.236.0/24,unallocated
 103.49.237.0/24,unallocated
 103.49.239.0/24,unallocated
+103.90.252.0/24,unallocated
 103.203.90.0/24,unallocated
 103.205.36.0/23,unallocated
 103.207.91.0/24,unallocated
@@ -297,6 +295,7 @@ ip,category
 142.147.62.0/24,unallocated
 149.255.16.0/22,unallocated
 149.255.20.0/22,unallocated
+160.19.202.0/23,unallocated
 162.216.176.0/22,unallocated
 162.219.56.0/22,unallocated
 162.221.64.0/21,unallocated
@@ -345,10 +344,16 @@ ip,category
 173.249.191.0/24,unallocated
 177.10.16.0/23,unallocated
 177.10.72.0/23,unallocated
+177.52.142.0/23,unallocated
+177.53.122.0/23,unallocated
+177.67.170.0/23,unallocated
 177.73.253.0/24,unallocated
+177.87.86.0/23,unallocated
+177.91.58.0/23,unallocated
 177.154.93.0/24,unallocated
 179.0.149.0/24,unallocated
 179.60.224.0/24,unallocated
+181.225.154.0/23,unallocated
 185.17.98.0/23,unallocated
 185.23.76.0/24,unallocated
 185.23.77.0/24,unallocated
@@ -375,6 +380,7 @@ ip,category
 190.8.29.0/24,unallocated
 190.8.30.0/24,unallocated
 190.8.31.0/24,unallocated
+190.97.174.0/23,unallocated
 190.120.224.0/20,unallocated
 191.37.252.0/24,unallocated
 192.0.2.0/24,documentation
@@ -408,7 +414,6 @@ ip,category
 192.154.32.0/19,unallocated
 192.154.64.0/19,unallocated
 192.168.0.0/16,RFC1918
-192.168.0.0/24,RFC1918
 192.168.0.0/24,RFC1918
 192.168.0.0/24,RFC1918
 192.168.1.0/24,RFC1918
@@ -485,11 +490,13 @@ ip,category
 199.241.34.0/23,unallocated
 200.0.202.0/23,unallocated
 200.3.10.0/23,unallocated
+200.3.198.0/23,unallocated
 200.6.50.0/23,unallocated
 200.9.154.0/23,unallocated
 200.13.84.0/23,unallocated
 200.33.174.0/23,unallocated
 200.35.144.0/21,unallocated
+200.85.138.0/23,unallocated
 200.219.0.0/18,unallocated
 200.219.0.0/18,unallocated
 201.77.2.0/23,unallocated
