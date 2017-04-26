@@ -31,6 +31,7 @@ ip,category
 2602:ffa1:e51::/48,unallocated
 2602:ffa1:e62::/48,unallocated
 2604:1000::/32,unallocated
+2604:1ac8::/29,unallocated
 2604:5980::/31,unallocated
 2605:a80:1::/48,unallocated
 2605:a80:2::/48,unallocated
