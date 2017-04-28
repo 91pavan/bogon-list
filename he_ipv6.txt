@@ -4,8 +4,6 @@ ip,category
 2001:5c0:1400::/39,unallocated
 2001:67c:11e8::/48,unallocated
 2001:df0:2b7::/48,unallocated
-2001:13c7:6020::/48,unallocated
-2001:13c7:6021::/48,unallocated
 2001:19b9::/32,unallocated
 2001:4879:2141:2::/64,unallocated
 2001:4879:8000:8::/64,unallocated
@@ -19,11 +17,8 @@ ip,category
 2404:9500::/32,unallocated
 2404:e601::/48,unallocated
 2405:1900::/32,unallocated
-2600:f000::/32,unallocated
-2602:12e:2000::/44,unallocated
 2602:12e:2002::/48,unallocated
 2602:12e:2003::/48,unallocated
-2602:ff03::/36,unallocated
 2602:ff6a::/36,unallocated
 2602:ffa1::/36,unallocated
 2602:ffa1:500::/40,unallocated
@@ -34,11 +29,9 @@ ip,category
 2604:1ac8::/29,unallocated
 2604:5980::/31,unallocated
 2605:a80:1::/48,unallocated
-2605:a80:2::/48,unallocated
 2605:8180::/32,unallocated
 2605:e280:c65a::/48,unallocated
 2610:f8::/32,unallocated
-2610:1520:4000::/34,unallocated
 2620:57:c000::/48,unallocated
 2620:57:c000::/48,unallocated
 2620:97:4000::/48,unallocated
@@ -49,9 +42,7 @@ ip,category
 2620:16a0:1::/48,unallocated
 2650:5380::/32,unallocated
 2800:5b00::/32,unallocated
-2a00:a040::/26,unallocated
 2a02:fa::/48,unallocated
-2a02:4700:1000::/48,unallocated
 2a02:62e0::/32,unallocated
 2a02:c060::/32,unallocated
 3ffe:80a::/64,6bone
