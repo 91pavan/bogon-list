@@ -19,6 +19,7 @@ ip,category
 2404:9500::/32,unallocated
 2404:e601::/48,unallocated
 2405:1900::/32,unallocated
+2405:9c80::/30,unallocated
 2602:12e:2002::/48,unallocated
 2602:12e:2003::/48,unallocated
 2602:ff6a::/36,unallocated
