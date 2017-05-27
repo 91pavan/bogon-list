@@ -6,6 +6,9 @@ ip,category
 2001:db8:241::/48,documentation
 2001:db8:242::/48,documentation
 2001:df0:2b7::/48,unallocated
+2001:13c7:6020::/48,unallocated
+2001:13c7:6021::/48,unallocated
+2001:13c7:6022::/48,unallocated
 2001:19b9::/32,unallocated
 2001:4879:2141:2::/64,unallocated
 2001:4879:8000:8::/64,unallocated

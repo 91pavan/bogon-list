@@ -11,15 +11,10 @@ ip,category
 10.27.0.0/16,RFC1918
 10.33.9.0/24,RFC1918
 10.47.0.0/24,RFC1918
-10.51.111.0/24,RFC1918
 10.127.0.0/16,RFC1918
 10.128.0.0/16,RFC1918
 10.129.0.0/16,RFC1918
 10.130.0.0/16,RFC1918
-10.153.1.0/24,RFC1918
-10.153.1.0/24,RFC1918
-10.153.255.0/24,RFC1918
-10.153.255.0/24,RFC1918
 10.199.254.0/24,RFC1918
 10.228.208.0/24,RFC1918
 10.228.209.0/24,RFC1918
@@ -42,10 +37,6 @@ ip,category
 41.78.180.0/23,unallocated
 41.222.80.0/21,unallocated
 41.242.132.0/23,unallocated
-43.224.140.0/24,unallocated
-43.224.141.0/24,unallocated
-43.224.142.0/24,unallocated
-43.224.143.0/24,unallocated
 43.228.144.0/22,unallocated
 43.241.246.0/24,unallocated
 43.241.247.0/24,unallocated
@@ -163,7 +154,6 @@ ip,category
 98.143.174.0/24,unallocated
 98.143.175.0/24,unallocated
 100.64.0.0/10,unallocated
-100.64.1.0/24,unallocated
 100.64.23.0/24,unallocated
 100.91.0.0/16,unallocated
 100.92.0.0/16,unallocated
@@ -252,7 +242,6 @@ ip,category
 102.6.206.0/23,unallocated
 103.14.22.0/24,unallocated
 103.17.32.0/24,unallocated
-103.18.44.0/24,unallocated
 103.18.45.0/24,unallocated
 103.20.219.0/24,unallocated
 103.23.247.0/24,unallocated
@@ -267,10 +256,6 @@ ip,category
 103.38.180.0/22,unallocated
 103.39.68.0/22,unallocated
 103.39.72.0/22,unallocated
-103.43.164.0/24,unallocated
-103.43.165.0/24,unallocated
-103.43.166.0/24,unallocated
-103.43.167.0/24,unallocated
 103.47.128.0/22,unallocated
 103.48.160.0/22,unallocated
 103.49.236.0/24,unallocated
@@ -440,11 +425,9 @@ ip,category
 192.154.32.0/19,unallocated
 192.154.64.0/19,unallocated
 192.168.0.0/16,RFC1918
-192.168.1.0/24,RFC1918
 192.168.3.0/24,RFC1918
 192.168.5.0/24,RFC1918
 192.168.14.0/24,RFC1918
-192.168.25.0/24,RFC1918
 192.168.50.0/24,RFC1918
 192.168.50.0/24,RFC1918
 192.168.90.0/24,RFC1918
@@ -490,8 +473,6 @@ ip,category
 198.51.100.0/24,documentation
 198.51.100.0/24,documentation
 198.62.196.0/24,unallocated
-198.74.11.0/24,unallocated
-198.74.13.0/24,unallocated
 198.91.44.0/22,unallocated
 198.97.72.0/21,unallocated
 198.97.96.0/19,unallocated
