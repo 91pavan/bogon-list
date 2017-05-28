@@ -54,5 +54,6 @@ ip,category
 2a02:fa::/48,unallocated
 2a02:62e0::/32,unallocated
 2a02:c060::/32,unallocated
+2a04:cbc0::/29,unallocated
 2a06:57c0::/30,unallocated
 3ffe:80a::/64,6bone
