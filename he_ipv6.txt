@@ -1,4 +1,5 @@
 ip,category
+600:6001:fa55::/48,invalid
 2001:4:112::/48,unallocated
 2001:5c0:1000::/39,unallocated
 2001:5c0:1400::/39,unallocated
