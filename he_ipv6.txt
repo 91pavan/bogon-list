@@ -39,6 +39,7 @@ ip,category
 2605:8180::/32,unallocated
 2605:e280:c65a::/48,unallocated
 2610:f8::/32,unallocated
+2620:1d:a000::/48,unallocated
 2620:57:c000::/48,unallocated
 2620:57:c000::/48,unallocated
 2620:97:4000::/48,unallocated
