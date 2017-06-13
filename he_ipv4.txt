@@ -484,6 +484,7 @@ ip,category
 194.180.19.0/24,unallocated
 195.162.92.0/22,unallocated
 195.216.238.0/24,unallocated
+195.230.97.0/24,unallocated
 196.44.48.0/21,unallocated
 197.159.224.0/19,unallocated
 197.214.120.0/21,unallocated
