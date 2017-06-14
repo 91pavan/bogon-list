@@ -53,7 +53,6 @@ ip,category
 2800:5b00::/32,unallocated
 2804::/22,unallocated
 2804:1c58::/32,unallocated
-2a00:e00::/24,unallocated
 2a02:fa::/48,unallocated
 2a02:62e0::/32,unallocated
 2a02:c060::/32,unallocated
