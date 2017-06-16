@@ -17,6 +17,8 @@ ip,category
 2026:10c:6003::/48,unallocated
 2400:4f80::/32,unallocated
 2400:e800:1000::/36,unallocated
+2401:a80::/32,unallocated
+2401:a80:f000::/36,unallocated
 2401:1480::/32,unallocated
 2404:9500::/32,unallocated
 2404:b480:f2a::/48,unallocated
