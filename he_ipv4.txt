@@ -1,6 +1,7 @@
 ip,category
 10.0.0.0/8,RFC1918
 10.0.0.0/8,RFC1918
+10.1.43.0/24,RFC1918
 10.3.24.0/24,RFC1918
 10.3.25.0/24,RFC1918
 10.10.14.0/24,RFC1918
@@ -8,7 +9,6 @@ ip,category
 10.12.1.0/24,RFC1918
 10.12.15.0/24,RFC1918
 10.22.0.0/16,RFC1918
-10.24.34.0/24,RFC1918
 10.26.20.0/24,RFC1918
 10.27.0.0/16,RFC1918
 10.32.58.0/24,RFC1918
@@ -194,7 +194,6 @@ ip,category
 100.87.0.0/16,unallocated
 100.88.0.0/16,unallocated
 100.89.0.0/16,unallocated
-100.90.0.0/16,unallocated
 100.90.0.0/16,unallocated
 100.91.0.0/16,unallocated
 100.92.0.0/16,unallocated
@@ -580,7 +579,6 @@ ip,category
 202.158.251.0/24,unallocated
 202.181.4.0/24,unallocated
 202.181.5.0/24,unallocated
-202.181.6.0/24,unallocated
 202.181.7.0/24,unallocated
 203.0.113.0/24,unallocated
 203.6.208.0/24,unallocated
