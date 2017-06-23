@@ -286,7 +286,6 @@ ip,category
 103.239.66.0/23,unallocated
 103.242.78.0/23,unallocated
 103.243.8.0/22,unallocated
-103.243.10.0/23,unallocated
 103.243.19.0/24,unallocated
 103.243.168.0/22,unallocated
 103.243.168.0/23,unallocated
