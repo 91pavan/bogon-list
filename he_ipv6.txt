@@ -15,6 +15,7 @@ ip,category
 2001:4879:a281:5::/64,unallocated
 2001:4879:a28c:400::/64,unallocated
 2026:10c:6003::/48,unallocated
+210a:9a40::/29,unallocated
 2400:4f80::/32,unallocated
 2400:e800:1000::/36,unallocated
 2401:a80::/32,unallocated
