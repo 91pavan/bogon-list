@@ -2,6 +2,7 @@ ip,category
 2001:4:112::/48,unallocated
 2001:5c0:1000::/39,unallocated
 2001:5c0:1400::/39,unallocated
+2001:7f8:3c::/48,unallocated
 2001:db8:241::/48,documentation
 2001:db8:242::/48,documentation
 2001:df0:2b7::/48,unallocated
@@ -48,7 +49,9 @@ ip,category
 2620:97:4000::/48,unallocated
 2620:bc::/48,unallocated
 2620:114:6000::/44,unallocated
+2620:114:6000::/45,unallocated
 2620:114:6008::/45,unallocated
+2620:114:6008::/48,unallocated
 2620:125:9401::/48,unallocated
 2620:125:9444::/48,unallocated
 2620:125:9800::/48,unallocated
@@ -57,6 +60,7 @@ ip,category
 2650:5380::/32,unallocated
 2800:5b00::/32,unallocated
 2804::/22,unallocated
+2804:1c58::/32,unallocated
 2804:1c58::/32,unallocated
 2a02:fa::/48,unallocated
 2a02:62e0::/32,unallocated
