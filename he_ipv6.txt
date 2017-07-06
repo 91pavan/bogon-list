@@ -2,6 +2,7 @@ ip,category
 2001:4:112::/48,unallocated
 2001:5c0:1000::/39,unallocated
 2001:5c0:1400::/39,unallocated
+2001:678:480::/48,unallocated
 2001:db8:241::/48,documentation
 2001:db8:242::/48,documentation
 2001:df0:2b7::/48,unallocated
