@@ -56,9 +56,8 @@ ip,category
 2620:16a0::/48,unallocated
 2620:16a0:1::/48,unallocated
 2650:5380::/32,unallocated
-2800:5b00::/32,unallocated
-2804::/22,unallocated
 2804:1c58::/32,unallocated
+2a01:78e0::/32,unallocated
 2a02:fa::/48,unallocated
 2a02:62e0::/32,unallocated
 2a02:c060::/32,unallocated
