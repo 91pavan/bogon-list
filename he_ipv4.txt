@@ -35,7 +35,6 @@ ip,category
 14.192.49.0/24,unallocated
 14.192.50.0/24,unallocated
 14.192.51.0/24,unallocated
-23.226.112.0/20,unallocated
 27.100.7.0/24,unallocated
 36.255.248.0/22,unallocated
 36.255.250.0/24,unallocated
@@ -50,6 +49,7 @@ ip,category
 43.251.20.0/22,unallocated
 43.251.84.0/22,unallocated
 43.251.84.0/23,unallocated
+43.251.84.0/24,unallocated
 43.251.85.0/24,unallocated
 45.155.139.0/24,unallocated
 64.29.240.0/20,unallocated
@@ -311,7 +311,6 @@ ip,category
 162.219.56.0/22,unallocated
 162.221.64.0/21,unallocated
 162.222.128.0/21,unallocated
-162.245.64.0/21,unallocated
 162.246.240.0/24,unallocated
 162.246.241.0/24,unallocated
 162.246.242.0/24,unallocated
@@ -319,7 +318,6 @@ ip,category
 162.246.245.0/24,unallocated
 162.246.246.0/24,unallocated
 162.246.247.0/24,unallocated
-162.248.224.0/21,unallocated
 162.252.34.0/23,unallocated
 162.254.176.0/23,unallocated
 166.93.0.0/16,unallocated
@@ -352,18 +350,10 @@ ip,category
 173.242.176.0/20,unallocated
 173.249.180.0/24,unallocated
 173.249.187.0/24,unallocated
-173.249.187.0/24,unallocated
 173.249.188.0/24,unallocated
 173.249.188.0/24,unallocated
 173.249.190.0/24,unallocated
 173.249.191.0/24,unallocated
-176.102.64.0/24,unallocated
-176.102.65.0/24,unallocated
-176.102.66.0/24,unallocated
-176.102.67.0/24,unallocated
-176.102.69.0/24,unallocated
-176.102.70.0/24,unallocated
-176.102.71.0/24,unallocated
 177.10.134.0/23,unallocated
 177.10.190.0/23,unallocated
 177.11.26.0/23,unallocated
@@ -509,10 +499,6 @@ ip,category
 204.13.4.0/22,unallocated
 204.13.158.0/23,unallocated
 204.15.208.0/22,unallocated
-204.62.116.0/24,unallocated
-204.62.117.0/24,unallocated
-204.62.118.0/24,unallocated
-204.62.119.0/24,unallocated
 204.69.139.0/24,unallocated
 204.76.203.0/24,unallocated
 204.187.11.0/24,unallocated
