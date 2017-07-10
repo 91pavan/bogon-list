@@ -364,7 +364,6 @@ ip,category
 185.23.76.0/24,unallocated
 185.23.77.0/24,unallocated
 185.23.200.0/24,unallocated
-185.23.204.0/22,unallocated
 186.195.240.0/22,unallocated
 192.0.2.0/24,documentation
 192.0.2.0/24,documentation
