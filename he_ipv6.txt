@@ -69,3 +69,6 @@ ip,category
 2a07:4300:1::/48,unallocated
 2a07:4300:2::/48,unallocated
 3ffe:80a::/64,6bone
+fd65:1b23:1b7e:ff01::/64,ULA
+fd65:1b23:1b7e:ff03::/64,ULA
+fdf1:fae6:1338::/64,ULA
